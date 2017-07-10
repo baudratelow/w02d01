@@ -1,18 +1,17 @@
-# Introduction To Python
+# Python Foundations
+---
 
+## Part 1: Python Data Types
 
 ### Learning Objectives
  
-**After this lesson, you will be able to:**
-
 - Define integers, strings, tuples, lists, and dictionaries
 - Demonstrate arithmetic operations and string operations
 - Demonstrate variable assignment
 
 ---
 
-# Python iteration, control flows, and functions
-
+## Part 2: Python iteration, control flows, and functions
 
 ### Learning Objectives
  
@@ -26,7 +25,7 @@
 
 ---
 
-### STUDENT PRE-WORK
+## STUDENT PRE-WORK
 
 Before this lesson(s), you should already be able to:
 
