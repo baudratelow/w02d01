@@ -1,6 +1,7 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Python Foundations
 
-**Data Science, Part Time Course: Unit 1, Lesson 3**
+> Data Science, Part Time Course: 
+Unit 1, Lesson 3
 
 ---
 
@@ -53,11 +54,11 @@ Before this lesson(s), students should already be able to:
 
 ## Additional Resources
 
-Students might also check out the following resources for more practice:
+For more information on this topic, check out the following resources:
 
-- Python Code Academy
-- Learn Python the Hardway
-- Python Datatypes and Variables
-- Python IF, ELIF, ELSE
-- Python Loops
-- Python Control Flow
+- [Python Code Academy](https://www.codecademy.com/learn/python)
+- [Learn Python the Hard Way](https://learnpythonthehardway.org)
+- [Python Datatypes and Variables](http://www.python-course.eu/variables.php)
+- [Python: IF, ELIF, ELSE](https://www.tutorialspoint.com/python/python_if_else.htm)
+- [Python Loops](https://www.tutorialspoint.com/python/python_loops.htm)
+- [Python Control Flow](https://python.swaroopch.com/control_flow.html)
