@@ -6,9 +6,11 @@
 
 ### Learning Objectives
  
+- Discuss Python as a programming language
+- Demonstrate variable assignment 
 - Define integers, strings, tuples, lists, and dictionaries
 - Demonstrate arithmetic operations and string operations
-- Demonstrate variable assignment
+
 
 ---
 
