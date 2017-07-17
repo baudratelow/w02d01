@@ -11,7 +11,7 @@ Unit 1, Lesson 3
 | --- | --- | --- |
 | Lesson | Two part lesson, outlined below | [Here](Python-dtypes-controlflow.ipynb) |
 | Solution  | Solution code for blanked out lesson samples | [Here](.//solution-code/Python-dtypes-controlflow-solution.ipynb) |
-| DataSets | Coffee Preferences Data | [Here](./assets/datasets/coffee-preferences.csv) |
+| Datasets | Coffee Preferences Data | [Here](./assets/datasets/coffee-preferences.csv) |
 | Source Materials | Original files used to create this lesson | [Here](./assets/originals/) |
 <!--| Extra Materials | Bonus review or practice materials provided by instructors | [Here](./assets/bonus/) |-->
 ---
