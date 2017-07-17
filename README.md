@@ -2,9 +2,22 @@
 
 ---
 
-## Part 1: Python Data Types
+## Materials We Provide
 
-### Learning Objectives
+| Topic | Description | Link |
+| --- | --- | --- |
+| Lesson | Two part lesson, outlined below | [Here](Python-dtypes-controlflow.ipynb) |
+| Solution  | Solution code for blanked out lesson samples | [Here](.//solution-code/Python-dtypes-controlflow-solution.ipynb) |
+| DataSet | Coffee Preferences Data | [Here](./assets/datasets/coffee-preferences.csv) |
+| Source Materials | Original files used to create this lesson | [Here](./assets/originals/) |
+
+---
+
+## Lesson Outline
+
+### Part 1: Python Data Types
+
+#### Learning Objectives
  
 - Discuss Python as a programming language
 - Demonstrate variable assignment 
@@ -14,9 +27,9 @@
 
 ---
 
-## Part 2: Python iteration, control flows, and functions
+### Part 2: Python iteration, control flows, and functions
 
-### Learning Objectives
+#### Learning Objectives
  
 - Explore `Python` control flow and conditional programming.  
 - Implement `For` and `While` loops to iterate through data structures.
@@ -30,9 +43,9 @@
 
 ## STUDENT PRE-WORK
 
-Before this lesson(s), you should already be able to:
+Before this lesson(s), students should already be able to:
 
-- Describe/define Python data types
+- Recall and define common Python data types
 
 ----
 
