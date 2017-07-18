@@ -37,6 +37,29 @@
 ---
 ## Lesson Outline
 
+**Part 1 : Python Datatypes**
+- Why Python
+- Introduction to Data Types
+- Jupyter Notebook
+- Python Variables
+- Operators
+- Integers and Floats
+- Strings -String Indexing
+- Printing Strings
+- Lists
+- Tuples
+- Dictionaries
+- Importing Packages and Documentation
+- Practice With a Partner
+
+**Part 2 : Python Iterations, Control Flow & Functions**
+- If Else Statement
+- Iterating With For Loops
+- FizzBuzz
+- Functions
+- While Loops
+- Practice control flow on Coffee Preference dataset
+- Conclusion/Review
 
 
 ---
