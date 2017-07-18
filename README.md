@@ -20,13 +20,13 @@
 ### Part 1: Python Data Types
  
 - Discuss Python as a programming language
-- Demonstrate variable assignment 
 - Define integers, strings, tuples, lists, and dictionaries
 - Demonstrate arithmetic operations and string operations
+- Demonstrate variable assignment 
 
 ### Part 2: Python iteration, control flows, and functions
  
-- Explore `Python` control flow and conditional programming.  
+- Define `Python` control flow and conditional programming.  
 - Implement `For` and `While` loops to iterate through data structures.
 - Apply `if, else` conditional statements.
 - Create functions to perform repetitive actions.
