@@ -35,6 +35,7 @@
 - Use `Python` control flow and functions to help us parse, clean, edit and analyze the Coffee Preferences dataset.
 
 ---
+
 ## Lesson Outline
 
 **Part 1 : Python Datatypes**
@@ -60,7 +61,6 @@
 - While Loops
 - Practice control flow on Coffee Preference dataset
 - Conclusion/Review
-
 
 ---
 
