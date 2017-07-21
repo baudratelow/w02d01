@@ -8,11 +8,14 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Two part lesson, outlined below | [Here](Python-dtypes-controlflow.ipynb) |
-| Solution  | Solution code for blanked out lesson samples | [Here](./solution-code/Python-dtypes-controlflow-solution.ipynb) |
+| Lesson | Two part lesson, outlined below | [Here](python-dtypes-controlflow.ipynb) |
+| Solution  | Solution code for blanked out lesson samples | [Here](./solution-code/python-dtypes-controlflow-solution.ipynb) |
 | Datasets | Coffee Preferences Data | [Here](./assets/datasets/coffee-preferences.csv) |
 | Source Materials | Original files used to create this lesson | [Here](./assets/originals/) |
 <!--| Extra Materials | Bonus review or practice materials provided by instructors | [Here](./assets/bonus/) |-->
+
+This material may be challenging to get through if students are new to programming. Expect students to struggle with for loops and functions -- you likely will have to do these exercises as a codealong. If time is left, there is practice on the Coffee dataset; if not, students can use it for more practice at home.
+
 ---
 
 ## Learning Objectives
@@ -38,28 +41,26 @@
 
 ## Lesson Outline
 
-**Part 1 : Python Datatypes**
-- Why Python
-- Introduction to Data Types
-- Jupyter Notebook
-- Python Variables
-- Operators
-- Integers and Floats
-- Strings -String Indexing
-- Printing Strings
-- Lists
-- Tuples
-- Dictionaries
-- Importing Packages and Documentation
-- Practice With a Partner
+**Part 1 : Python Datatypes** (90 minutes)
+- Why Python (5 mins)
+- Introduction to Data Types (10 mins)
+- Jupyter Notebook (5 mins)
+- Python Variables (5 mins)
+- Operators (10 mins)
+- Integers and Floats (5 mins)
+- Strings (10 mins)
+- Lists (10 mins)
+- Tuples (5 mins)
+- Dictionaries (10 mins)
+- Importing Packages and Documentation (5 mins)
+- Practice With a Partner (10 mins)
 
-**Part 2 : Python Iterations, Control Flow & Functions**
-- If Else Statement
-- Iterating With For Loops
-- FizzBuzz
-- Functions
-- While Loops
-- Practice control flow on Coffee Preference dataset
+**Part 2 : Python Iterations, Control Flow & Functions** (80 minutes)
+- If Else Statement (10 mins)
+- Iterating With For Loops (30 mins - consider mostly doing as a codealong)
+- Functions (30 mins - consider mostly doing as a codealong)
+- While Loops (10 mins)
+- Practice control flow on Coffee Preference dataset (if time remains, otherwise practice at home)
 - Conclusion/Review
 
 ---
